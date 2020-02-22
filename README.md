@@ -2,7 +2,7 @@
 
 The task is to debug the existing code to successfully execute all provided test files.
 
-Consider that vowels in the alphabet are a, e, i, o, u and y.
+Consider that vowels in the alphabet are a, e, i, o and u
 
 Function score_words takes a list of lowercase words as an argument and returns a score as follows:
 
